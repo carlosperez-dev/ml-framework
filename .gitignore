@@ -130,3 +130,13 @@ dmypy.json
 
 # .DS Store
 .DS_Store
+
+# Input data and Models
+input/
+models/
+
+# Data files
+*.csv
+*.h5
+*.pkl
+*.pth
